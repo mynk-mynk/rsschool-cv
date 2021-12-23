@@ -1,7 +1,9 @@
 # Daria Romashkina
 CONSTRUCTION ENGINEER
 
-## Contact details
+![photo](./photo.jpg)
+
+## Contact details  
 
 +48 662 191 022
 
@@ -34,7 +36,7 @@ Industrial and Civil Egineering Design, Concrete and Steel Design, Structural An
 
 ## Education
 
-Tyumen State University of Architecture and Civil Engineering '2012
+[Tyumen State University of Architecture and Civil Engineering](https://www.tyuiu.ru/) '2012
 
 Industrial and Civil Egineering
 
