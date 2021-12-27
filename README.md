@@ -1,1 +1,1 @@
- Your site is published at https://mynk-mynk.github.io/rsschool-cv/cv
+ https://mynk-mynk.github.io/rsschool-cv/
