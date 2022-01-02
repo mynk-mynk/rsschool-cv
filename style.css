@@ -1,2 +1,27 @@
-<style>
-</style>
+@font-face {
+    font-family: 'Lora';
+     src: url("./assets/fonts/Lora-Regular.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Lora';
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    border: 1px solid red;
+}
+
+.main {
+    border: 1px solid red;
+}
+
+.footer {
+    border: 1px solid red;
+}
