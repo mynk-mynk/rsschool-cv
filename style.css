@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Lora';
+     src: url("./assets/fonts/Lora-Regular.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    font-family: 'Lora';
+    margin: 0 auto;
+    width: 720px;
+    height: 1015px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #D3D3D3;
+    border-style: outset;
+}
+
+.main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer {
+    padding: 2px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.nav {
+    display: flex;
+    flex-flow: row nowrap;
+    background: #D3D3D3;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 2px;
+}
+
+.nav-link {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #800080;
+}
+
+.gray-content {
+    flex-grow: 1;
+    background: #D3D3D3;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.white-content {
+    flex-grow: 1.5;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.photo {
+    display: block;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.img {
+    padding: 0;
+    margin: 0 10px;
+    box-sizing: content-box;
+}
+
+.img:hover {
+    box-shadow: 0 0 5px;
+}
+
+.year {
+    flex-grow: 1;
+}
+
+h2 {
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+
